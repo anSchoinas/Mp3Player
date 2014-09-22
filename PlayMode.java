@@ -3,6 +3,8 @@ import javazoom.jl.player.advanced.*;
 import javazoom.jl.decoder.*;
 import javazoom.jl.player.Player;  
 
+//Class for Mp3 Playback 
+
 class PlayMode extends  PlaybackListener{  
 	private String filename;  
     public AdvancedPlayer player; 
