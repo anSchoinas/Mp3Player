@@ -8,7 +8,14 @@ National Technical University of Athens Greece
 
 =========
 Credits - Packages Used:
+=========
 -tritonus-share
+=========
 -mp3spi
+=========
 -xom parser
+=========
 -jlayer
+=========
+-Last.fm
+=========
