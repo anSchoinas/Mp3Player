@@ -6,7 +6,7 @@ import java.net.*;
 
 class getInfo {
 	int i;
-	//String message;
+	
 	public String[] songSearch(String song) throws MalformedURLException{
 		String[] a = new String[4];
 		String song2 =song.replace(" ","+");
