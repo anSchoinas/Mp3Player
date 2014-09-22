@@ -4,8 +4,6 @@ import java.awt.*;
 import javax.swing.event.*;
 import java.awt.event.*;
 
-
-
 class makerInfo extends JFrame implements ActionListener{
 	JFrame infoframe = new JFrame("Schoinas Andreas");
 	JPanel infowind = new JPanel();
