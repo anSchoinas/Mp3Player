@@ -35,6 +35,7 @@ public class Mp3Player{
 		Mp3Player player = new Mp3Player();
 	}
 }
+ 
  	
 class generateUI extends JFrame implements ActionListener{
 	private static final long serialVersionUID = 6975520272697552027L;
